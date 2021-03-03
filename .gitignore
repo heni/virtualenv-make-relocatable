@@ -1,0 +1,10 @@
+# pycache
+__pycache__
+*.pyc
+.mypy_cache
+*.py[cod]
+
+# setup.py directories
+build
+dist
+*.egg-info
