@@ -5,7 +5,7 @@ Authors:
     Eugene Krokhalev
 ~~~
 
-Originated from: (virtualenv legacy)[https://github.com/pypa/virtualenv/blob/legacy/virtualenv.py]
+Originated from [virtualenv legacy code](https://github.com/pypa/virtualenv/blob/legacy/virtualenv.py)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
