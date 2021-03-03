@@ -1,6 +1,7 @@
 ### virtualenv-make-relocatable
 
-simple tool to make scripts provided by virtualenv relocatable
+Simple tool to make scripts provided by virtualenv relocatable
+It's just the alternative for removed `virtualenv --relocatable`
 
 
 #### Background
